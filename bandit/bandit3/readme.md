@@ -6,7 +6,7 @@
 2. Now establish an SSH connection using `sudo ssh bandit3@bandit.labs.overthewire.org -p 2220`
 
     ![Alt text](bandit3-ssh.png)
-3. The main purpose of this lab is to know how to find hidden files. If you put a period **.** at start of the filename than this linux system takes this file as a hidden file.
+3. The main purpose of this lab is to learn how to find hidden files. If you put a period **.** at start of the filename    than linux system takes this file as a hidden file.
 4. Once a file is hidden, it means that `ls` command won't list this file on the terminal.
 5. You need to use a switch with `ls` command as `ls -al`.
 6. Quickly we will visit (ExplainShell)[https://www.explainshell.com/] and see what is the meaning of this command.
