@@ -8,8 +8,9 @@
    ![Alt text](bandit7-ssh.png)
 
 3. Following are the clues which are given to us:
-   1. Password for the next level is stored in a file named **data.txt**.
-   2. Next to the word **millionth**
+   * Password for the next level is stored in a file named **data.txt**.
+   * Next to the word **millionth**
+  
 4. Clues are very helpful. Don't get me wrong here. Why? Because when I logged into the machine and a quick `ls` revealed that **data.txt** file is waiting in the **/home/bandit7** directory for us to explore it :)
 5. Now `cat` this file using `cat data.txt` and in a second you will understand the importance of second clue :D
 6. To be successful in this level, we need to know a great painkiller linux command which is known as `grep`.
