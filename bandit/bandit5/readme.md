@@ -1,4 +1,4 @@
-# [bandit5](https://overthewire.org/wargames/bandit/bandit5.html)
+# bandit5
 
 ### Solution Steps:
 
