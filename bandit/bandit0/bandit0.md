@@ -1,4 +1,4 @@
-Bandit0
+# bandit0
 ---
 ---
 ### This machine is pretty easy. You just need to know how to connect to a Linux machine using SSH
