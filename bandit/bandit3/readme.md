@@ -21,4 +21,4 @@
 
     ![Alt text](bandit3-flag.png)
 
-12. Thank you for your time. See you in next [level](https://overthewire.org/wargames/bandit/bandit4.html) :)
+12. Thank you for your time. See you in next level :)
