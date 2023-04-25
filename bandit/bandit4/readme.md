@@ -18,4 +18,4 @@
 
     ![Alt text](bandit4-flag.png)  
 
-10. Thank you for your time. See you in next [challenge](https://overthewire.org/wargames/bandit/bandit5.html) :)
+10. Thank you for your time. See you in next challenge :)
