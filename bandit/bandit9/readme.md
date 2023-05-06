@@ -9,7 +9,19 @@
 
 3. Following are the clues which are given to us:
    * Password for the next level is stored in a file named **data.txt**.
-   * Line starts with multiple **=** signs
+   * It is the only line of text which is in human readable form and starts with "=" sign
+
+4. Just to satisfy my curiosity, I tried to open **data.txt** by using following command, and found that this contains binary data:
+   > `cat data.txt`  
+
+5. To extract human readable data, I used **strings** command and piped the result to grep command as follows:
+   > `strings data.txt | grep "=="`
+
+6. By using this command, I was able to get the flag :)
+
+<p align="center"><img src=bandit9-flag.png alt="" width="30%" height="30%"></p>
+
+7. Save this flag and see you in the next level.
 
 
 
