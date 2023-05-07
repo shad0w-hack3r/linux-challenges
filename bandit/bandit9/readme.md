@@ -21,7 +21,7 @@
 
 <p align="center"><img src=bandit9-flag.png alt="" width="30%" height="30%"></p>
 
-7. Save this flag and see you in the next level.
+7. Save this flag and see you in the next level :)
 
 
 
