@@ -10,7 +10,7 @@
 3. Following are the clues which are given to us:
    * Password for the next level is stored in a file named **data.txt**.
    * This file contains **base64** encoded data.
-4. Now we can use **base64** command to simply encode or decode the data. Now here because the data is already encoded so to decode this data we can use **-d** switch as follows:
+4. Now we can use **base64** command to simply encode or decode the data. Here because the data is already encoded so to decode this data we can use **-d** switch as follows:
    > `base64 -d filename`
 <p align="center"><img src="bandit10-flag.png" alt="" width="50%" height="50%"></p>
 5. Save this flag because it will be used to login to the next level.
