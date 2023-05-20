@@ -3,7 +3,8 @@
 ### Solution Steps:
 
 1. Save the flag which was obtained from **bandit12**. This flag is actually the password to SSH into **bandit13**.
-2. Now establish an SSH connection using `sudo ssh bandit13@bandit.labs.overthewire.org -p 2220`.
+2. Now establish an SSH connection using 
+   > `sudo ssh bandit13@bandit.labs.overthewire.org -p 2220`.
 3. Following are the clues which are given to us:
    * Password for the next level is stored in a file named **/etc/bandit_pass/bandit14** and can only be read by user bandit14.
    * You get a private SSH key that can be used to log into the next level.
@@ -13,3 +14,4 @@
    > `ssh bandit14@hostname -p 2220 -i key_filename`
 7. Once login is successful, simply just **cat** the file which is mentioned in our clue.
 8. Voila! Flag found :) Save it for next level.
+<p align="center"><img src="bandit13-flag.png" alt="" width="50%" height="50%"></p>
