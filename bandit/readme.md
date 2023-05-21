@@ -20,4 +20,5 @@ Below are the solutions:
 * [Bandit Level 13 → Level 14](https://github.com/shad0w-hack3r/linux-challenges/blob/main/bandit/bandit14/readme.md)
 * [Bandit Level 14 → Level 15](https://github.com/shad0w-hack3r/linux-challenges/tree/main/bandit/bandit14)
 * [Bandit Level 15 → Level 16](https://github.com/shad0w-hack3r/linux-challenges/blob/main/bandit/bandit15/readme.md)
-* 
+* [Bandit Level 16 → Level 17]()
+* [Bandit Level 17 → Level 18]()
